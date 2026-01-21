@@ -1,0 +1,10 @@
+integer a te 5
+integer b te 10
+
+jodi (b > a) {
+    dekhao(b)
+    b = b + 5
+    dekhao(b)
+} nahole {
+    dekhao(a)
+}
