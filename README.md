@@ -1,7 +1,7 @@
 # BanglaLang Interpreter
 
 A custom-built interpreter for a toy programming language written in **C++**, inspired by Bengali keywords.  
-This project demonstrates the **core internals of an interpreter**: Lexical Analysis, Parsing with AST generation, and Execution.
+This project demonstrates the **core internals of an interpreter**: Lexical Analysis, Parsing with AST generation and Execution.
 
 Designed for learning **compiler design, language implementation and AST-based evaluation**.
 
